@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: todo-app-week-39c3
-        image: rudrasankha/todo-app-week-39c3:40f2cfcb6ddc27d0913b53f2d8750757846fb453
+        image: rudrasankha/todo-app-week-39c3:9ebb28c89b55c772564dfb74a71f8229cce33d7c
         ports:
         - containerPort: 3000
 
